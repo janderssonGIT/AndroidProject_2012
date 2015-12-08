@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/ImageViewLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo" />
+
+    <ScrollView
+        android:id="@+id/ScrollViewAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="250px"
+        android:layout_below="@+id/ImageViewLogo" >
+
+    <TextView
+            android:id="@+id/TextViewAbout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/aboutdetails" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/ButtonAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ScrollViewAbout"
+        android:layout_centerHorizontal="true"
+        android:text="@string/Cancel" />
+    
+    <ImageButton
+        android:id="@+id/ButtonFB"
+        android:src="@drawable/facebook50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ScrollViewAbout"
+        android:layout_alignLeft="@+id/ButtonAbout" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Kulplex"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

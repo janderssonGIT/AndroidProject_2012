@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="Planner">Planner</string>
+    <string name="Favs">Favourites</string>
+    <string name="Social">Social</string>
+    <string name="Settings">Settings</string>
+    
+    <string name="MyLocation">Min plats</string>
+	<string name="Exit">Gå ut</string>
+	
+</resources>

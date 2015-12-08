@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <AutoCompleteTextView
+        android:id="@+id/autocompletetextview"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_toRightOf="@+id/textView1"
+        android:completionThreshold="1"
+        android:hint="Search" />
+
+    
+    <RadioGroup
+        android:id="@+id/radio_group1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/autocompletetextview"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="10dp"
+            android:onClick="onRadioButtonClick"
+            android:checked="true"
+            android:text="Street" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/radioButton1"
+            android:layout_alignBottom="@+id/radioButton1"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="60dp"
+            android:layout_toLeftOf="@+id/radioButton1"
+            android:onClick="onRadioButtonClick"
+            android:text="Stop or Landmark" />
+
+    </RadioGroup>
+    
+    
+
+  <TableRow
+      android:id="@+id/tableRow2"
+      android:layout_width="match_parent"
+      android:layout_height="68dp"
+      android:layout_gravity="bottom"
+      android:background="@drawable/drawerbuttonbackground" >
+
+    <ImageView
+		    android:id="@+id/optback1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="bottom"
+		  	android:background="@drawable/back" />
+    
+    <ImageView
+		    android:id="@+id/loadopt1"
+		    android:layout_width="69dp"
+		    android:layout_height="68dp"
+		    android:layout_gravity="bottom"
+		    android:layout_marginLeft="229dp"
+		    android:background="@drawable/confirm" />
+		  	   
+</TableRow>
+ 
+</FrameLayout>

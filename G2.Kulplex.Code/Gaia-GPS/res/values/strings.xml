@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="app_name">GaiaGPS v0.97</string>
+
+<string name="icon_prompt">Choose icon</string>
+
+<string name="email">your email</string>
+ 
+<string name="username">Username</string>
+
+<string name="password">Password</string>
+    
+<string name="subject">Subject</string>
+    
+<string name="enterfeedback">Enter feedback details</string>
+    
+<string name="sender">Sender</string>
+    
+<string name="recipients">To:</string>
+    
+<string name="sendfeedback">sendfeedback</string>
+    
+<string name="Sendfeedback">Send Feedback</string>
+    
+<string name="Cancel">Cancel</string>
+    
+<string name="Send">Send</string>
+    
+<string name="email1">Your email</string>
+    
+<string name="feedbackdetails">Enter your feedback details to the developer:</string>
+
+<string name="register">Register now</string>
+
+<string name="aboutdetails">
+Created by:\n		
+
+\tAlberto Vaccari\n
+\tHasan Yahya\n
+\tJiayu Hu\n
+\tJim Andersson\n
+\tHenry Dang\n
+\tPetra BÈczi\n
+\n
+**** Description ****\n
+\n
+GaiaGPS is an interactive GPS and navigation application,\n
+based on OSM data, which allows the User to find\n
+and plan routes to any given destination, \n
+be it by car or by foot. With its enhanced and smooth\n
+interface the User can quickly search for addresses, cities,\n
+or any point of interest.
+Kuplex GaiaGPS Pro also provides social features.
+</string>
+    
+
+<string name="Weather">Weather</string>
+
+<string name="FriendList">FriendList</string>
+    
+
+<string name="back">Back</string>
+    
+
+<string name="Logout">Logout</string>
+    
+
+<string name="Search">Search</string>
+    
+
+<string name="Enter">Enter</string>
+    
+
+<string name="Tutorial">Do you wish to\ntake a tour?</string>
+
+
+<string name="Tutorialstartup">Click to the arrow below\nto continue "</string>
+<string name="Tutorial1">This view shows four buttons:\nTravel Planner, Favourites, Social and Settings.</string>
+<string name="Tutorial2">Here you can select your destination by clicking ´Go to Location´ or ´Go to Favourite or ´Go to Coordinates´.</string>
+<string name="Tutorial3">This is the first sub-menu of Favourites.\nYou can add and save your actual location as a point of interest into a list and specify its category.</string>
+<string name="Tutorial4">This list includes all the point of interests\naround the city.\nYou can click to select or deselect to pin them on the map one by one or all of them at the same time. </string>
+<string name="Tutorial5">To access into Social, you have to log in.\nThe log in panel will automaticly pop up and offers the ability of log in or register. </string>
+<string name="Tutorial6">You can get weather reports from different cities by typing in city or zip code.\nAlso you can see your friends here and send messages, whether online or offline.</string>
+<string name="Tutorial7">Under this menu you can select from different maps (you should choose the current city where you are). On the other hand, you can personalize a bit by choosing theme of the application´s interface (colors). </string>
+<string name="Tutorial8">It can be reached by closing the main menu and drag the small handle icon on the right side of the screen. You can interact with the map there (zoom in, zoom out, show actual location, and information)</string>
+
+</resources>

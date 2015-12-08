@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="app_name">GaiaGPS v0.19</string>
+
+<string name="icon_prompt">选择图标</string>
+
+<string name="email">邮箱</string>
+    
+<string name="password">密码</string>
+    
+<string name="subject">主题</string>
+    
+<string name="enterfeedback">输入反馈信息...</string>
+    
+<string name="sender">寄件人</string>
+    
+<string name="recipients">至：</string>
+    
+<string name="send">发送</string>
+    
+<string name="sendfeedback">发送反馈</string>
+    
+<string name="Sendfeedback">发送反馈</string>
+    
+<string name="Cancel">取消</string>
+    
+<string name="Send">发送</string>
+    
+<string name="email1">你的邮箱</string>
+    
+<string name="feedbackdetails">发送你的反馈信息至开发者：</string>
+
+<string name="aboutdetails">
+由以下成员开发:\n		
+
+\tAlberto Vaccari\n
+\tHasan Yahya\n
+\tJiayu Hu\n
+\tJim Andersson\n
+\tHenry Dang\n
+\tPetra BÈczi\n
+\n
+**** 介绍 ****\n
+\n
+GaiaGPS是一个能互动的 GPS导航程序。 \n
+基于OSM数据，它能找到路线并且计划导航， \n
+可用于汽车和步行导航. \n
+通过其完善的界面，用户能快速地查找任何感兴趣的地址。 \n
+除此之外，Kuplex GaiaGPS还具备了其他独特的社区功能</string>
+    
+
+<string name="cancel">取消</string>
+    
+
+<string name="Weather">天气</string>
+
+<string name="FriendList">朋友列表</string>
+    
+
+<string name="back">返回</string>
+    
+
+<string name="Logout">注销</string>
+    
+
+<string name="Search">搜索中...</string>
+    
+
+<string name="Enter">输入</string>
+    
+
+<string name="Search1">搜索</string>
+
+
+<string name="Tutorial">你想旅行吗？</string>
+
+
+<string name="Tutorialstartup">点击箭头继续"</string>
+<string name="Tutorial1">这个界面有四个按钮:\nTravel Planner, Favourites, Social and Settings.\n点击它们可以进入子菜单. </string>
+<string name="Tutorial2">你可以选择你的目的地通过点击 ´Go to A Destination´ 或者 ´Go to Favourite 或者 ´Go to Coordinate´.</string>
+<string name="Tutorial3">这是Favourites的第一个子菜单.\n你可以添加和保存一个位置并选择其类别.</string>
+<string name="Tutorial4">这个列表包含了附近有用的地点.\n你可以通过点击来选择或者取消这些地点. </string>
+<string name="Tutorial5">要访问社区功能你必须先登录.\n注册界面会自动弹出提供注册. </string>
+<string name="Tutorial6">你可以通过输入城市名称来获取当地的天气状况.\n同时，无论你的朋友是否在线，你都可以向他们发送信息.</string>
+<string name="Tutorial7">在此菜单下你能选择不同的地图 (你应该选择你当前所在的城市). 另一方面, 你可以在个性化菜单里选择界面主题（可更换界面颜色）. </string>
+<string name="Tutorial8">关闭主菜单后，拖动屏幕右侧的小图标你就能找到它. 你可以通过它放大，缩小地图，显示当前位置 以及信息。</string>
+
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="app_name">GaiaGPS v0.19</string>
+
+<string name="icon_prompt">válasszon ikont</string>
+
+<string name="email">email cím</string>
+    
+<string name="password">jelszó</string>
+    
+<string name="subject">téma</string>
+    
+<string name="enterfeedback">írja be a visszajelzés adatait</string>
+    
+<string name="sender">küldő</string>
+    
+<string name="recipients">címzett:</string>
+    
+<string name="send">küldés</string>
+    
+<string name="sendfeedback">sendfeedback</string>
+    
+<string name="Sendfeedback">Visszajelzés elküldése</string>
+    
+<string name="Cancel">Mégsem</string>
+    
+<string name="Send">Küldés</string>
+    
+<string name="email1">Email cím</string>
+    
+<string name="feedbackdetails">Írja be a panaszait a fejlesztőknek:</string>
+
+<string name="aboutdetails">
+Created by:\n		
+
+\tAlberto Vaccari\n
+\tHasan Yahya\n
+\tJiayu Hu\n
+\tJim Andersson\n
+\tHenry Dang\n
+\tPetra Béczi\n
+\n
+**** Description ****\n
+\n
+GaiaGPS egy interaktív GPS és navigációs \n
+redszer ami, OSM adatokra épült és éehetővé teszi, hogy \n
+a felhasználó megtaláljon akármilyen \n
+célpontot autójárművel illetve gyalog. \n
+A maga nagy és sima grafikai kinézetével \n
+a felhasználó gyorsan és egyszerűen tud keresni\n
+a városban vagy akármilyen látnivalókat.\n
+Kuplex GaiaGPS Pro egyedülálló jellemzője, hogy \n
+szociális kiégészítővel rendelkezik.</string>
+    
+    
+
+<string name="Weather">Időjárás</string>
+
+<string name="FriendList">Ismerősök Listája</string>
+    
+
+<string name="back">Vissza</string>
+    
+
+<string name="Logout">Kijelentkezés</string>
+    
+
+<string name="Search">Keresés</string>
+    
+
+<string name="Enter">Belépés</string>
+    
+
+<string name="Search1">Keresés</string>
+
+
+<string name="Tutorial">Szeretné elindítani a bemutatót?</string>
+
+
+<string name="Tutorialstartup">A folytatáshoz nyomjon a nyílra."</string>
+<string name="Tutorial1">Ez a lap 4 gombot mutat:\nUticélTervezés, Kedvencek, Szociális aés SBeállítások.\nMegnyomásuk esetén további menüpontokhoz vezetnek. </string>
+<string name="Tutorial2">Itt kiválaszthatja az Uticéltervezés fajtáját . </string>
+<string name="Tutorial3">Ez az első almenüje a Kedvenceknek.\nYItt létrehozhat saját helyzeteket és elmentheti őket kedvencekként, ami az Érdekességek listájába kerül.</string>
+<string name="Tutorial4">TEl a lista az összes érdekességet tartalmazza\nmindenhol a városban.\naA lista elemei együtt és egyenként is kiválaszthatók, hogy a térképre felkerüljenek . </string>
+<string name="Tutorial5">Belépés a Szociális menübe bejelentkezést igényel.\nA bejelenkezés panel autómatikusan fel fog ugrani. </string>
+<string name="Tutorial6">YItt megnézhető az időjáráselőrejelzést ha a keresőbe beírja a várost vagy címet.\nTovábbá itt küldhet ismerőseinek üzenetet, akkor is, ha ők nincsenek bejelentkezve.</string>
+<string name="Tutorial7">Itt kiválaszthatja a térképet illetve módosíthatja a kinézet témáját. </string>
+<string name="Tutorial8">Ha bezárja a főmenüt, akkor jobb oldalt kihúzhatja a térkép konzoljáta,ami majd ráközelt, eltávolodik illetve megmutatja az aktuális helyzetét.</string>
+
+</resources>

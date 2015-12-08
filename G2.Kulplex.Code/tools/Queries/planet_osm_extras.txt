@@ -1,0 +1,25 @@
+CREATE TABLE planet_osm_rails
+(
+_id integer,
+code integer,
+latitude integer,
+longitude integer
+)
+
+CREATE TABLE planet_osm_streets
+(
+_id integer,
+code integer,
+latitude integer,
+longitude integer
+)
+
+CREATE TABLE planet_osm_poly
+(
+_id integer,
+code integer,
+part integer,
+latitude integer,
+longitude integer
+)
+

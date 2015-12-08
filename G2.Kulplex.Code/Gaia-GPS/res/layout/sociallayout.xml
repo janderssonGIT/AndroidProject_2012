@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/drawerbackground" >
+	
+
+	<TableRow
+	    android:layout_width="fill_parent"
+	    android:layout_height="100dp"
+	    android:layout_gravity="bottom"
+	    android:background="@drawable/drawerbuttonbackground" >
+
+
+
+		<ImageView
+		    android:id="@+id/button1"
+		    android:layout_width="wrap_content"
+		   android:layout_marginLeft="40dp"
+		    android:layout_marginTop="30dp"
+		    android:src="@drawable/back_button50"/>
+
+    </TableRow>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+
+
+    <ImageView
+        android:id="@+id/WeatherForecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="160dp"
+        android:src="@drawable/weather_button" />
+
+
+
+
+
+    <ImageView
+        android:id="@+id/FriendList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="280dp"
+        android:src="@drawable/friends_button" />
+
+</FrameLayout>

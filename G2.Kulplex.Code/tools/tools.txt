@@ -1,0 +1,1 @@
+this folder includes the tools used for transfering maps from PostgreSQL to SQLite.

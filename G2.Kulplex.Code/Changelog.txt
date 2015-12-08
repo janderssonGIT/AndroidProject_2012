@@ -1,0 +1,138 @@
+GaiaGPS - Changelog 
+
+----------------------
+
+v0.97  --(14/05/2012)--
+-Created Documentation
+-Added 'Go to Coordinates' view
+
+----------------------
+
+v0.87  --(12/05/2012)--
+-Update graphics
+-Update friendlist
+-Update xml
+-Update chat
+-Update routing
+-Update Tabfavourites
+-Update tutorial
+-Update comments
+-Update translate features
+-Planner completed
+
+
+----------------------
+
+v0.70  --(07/05/2012)--
+-Update call features.
+-Update tutorial.
+-Add  activity and layout for router-loading.
+
+
+----------------------
+
+v0.63  --(30/04/2012)--
+-Flickering map fixed.
+-Draft call features.
+-Add tutorial.
+
+
+----------------------
+
+v0.55  --(24/04/2012)--
+-Update layout.
+-Chat features implemented.
+
+
+----------------------
+
+v0.51  --(17/04/2012)--
+-Login and Logout implemented.
+-Add share on Facebook features.
+-Add POI list.
+-Icon issues fixed.
+-Register features implemented.
+-Friendlist implemented.
+-Add new map.
+
+
+----------------------
+
+v0.39  --(10/04/2012)--
+-Routing implemented.
+-Feedback section, User can provide feedback from the application.
+-Weather features implemented.
+
+
+----------------------
+
+v0.27  --(26/03/2012)--
+-Map rotation feature, according to user orientation.
+-Find street name.
+-Planner implemented.
+-Compass completed.
+
+
+
+
+----------------------
+
+v0.15  --(19/03/2012)--
+-Update Wiki.
+-Planner implementation started.
+-Audio can be played.
+-Get current orientation.
+-The basic version of the UI is integrated 
+with working buttons.
+-Create ReadMe file.
+-First use of offline DB sqlite.
+-All the buttons on the main menu lead to the related view.
+-First implementation of a splash screen, with loading.
+-All the Strings/Arrays of the UI are written in the values folder.
+-Fix crash when recalling app from background.
+
+
+----------------------
+
+v0.11  --(08/03/2012)--
+-Find address (given coordinates).
+-Find coordinates (given address).
+-Favourites interface.
+-Settings interface.
+-Display streets and buildings.
+-DIsplay street name.
+-Theme chooser completed.
+-Update favourites.
+-Update settings.
+
+
+----------------------
+
+v0.07  --(01/03/2012)--
+-Display the poi on the map.
+-Export the database into sqlite and make it able to run queries on android.
+-Add buttons on the drawer on the side to provide more features.
+-A feature making it able to remove the menu.
+-Prepare the design for planner and how it should look like.
+-Prepare the design for favourites and how it should look like.
+-Prepare the design for settings and how it should look like.
+-Resolution error (bug fix) making it stable in all resolutions not screwed up in some.
+-Rename the database name SE - POI
+
+
+----------------------v0.05  --(28/02/2012)--
+-Fully integrated UI: the basic version of the UI has been integrated with working buttons.
+-First use of offline DB sqlite.
+-All the buttons on the main menu lead to the related view.
+-Stable CustomMapView, it shows POI and can display data.
+-Implemented POI list.
+
+
+----------------------
+
+
+
+
+
+
+

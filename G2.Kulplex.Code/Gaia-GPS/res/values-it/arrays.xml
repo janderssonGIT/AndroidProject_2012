@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="testArray">  
+    <item>Restaurant</item>  
+    <item>Pub</item>  
+    <item>Pizzeria</item>  
+    <item>Parking</item>  
+    <item>University</item>  
+     </array>
+    
+</resources>

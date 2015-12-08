@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <array name="POIList">  
+    <item>Food and Drink</item>  
+    <item>Entertainment</item>  
+    <item>Places of Worship</item>  
+    <item>Healthcare</item> 
+    <item>Education</item>  
+    <item>Public Transport</item>  
+    <item>Shop</item>  
+    <item>Administrative Buildings</item>
+    <item>Parking</item>
+     </array>
+     
+        
+    <string-array name="themes">
+      <item>Black Theme</item>
+      <item>Blue Theme</item>
+      <item>Orange Theme</item>
+      <item>Green Theme</item>
+      <item>Purple Theme</item>
+    </string-array>
+    
+        
+    <string-array name="maps">
+      <item>Västra Götaland</item>
+      <item>Göteborg</item>
+      <item>Piovene Rocchette</item>
+      <item>Marano Vicentino</item>
+      
+    </string-array>
+    
+    <string-array name="feedbacktypelist">
+		<item>Crash</item>
+		<item>Glitch</item>
+		<item>Bug</item>
+		<item>Suggestion</item>
+	</string-array>
+	
+          <string-array name="icon_arrays">
+        <item>Home</item>
+        <item>Building</item>
+        <item>Person</item>
+        <item>Special</item>
+        
+        
+    </string-array>
+          <string-array name="statusList">
+              <item >Online</item>
+              <item >Busy</item>
+              <item >Away</item>
+              <item >Offline</item>
+          </string-array>
+    
+</resources>

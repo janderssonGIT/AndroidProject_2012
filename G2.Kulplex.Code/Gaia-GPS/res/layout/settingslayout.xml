@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id = "@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/drawerbackground"
+    android:orientation="vertical" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+         <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:textSize="20dp" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose a theme" />
+    </TableRow>
+
+    <Spinner
+        android:id="@+id/themeChooser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true" />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose a map" />
+    
+    
+        <Spinner
+        android:id="@+id/mapChooser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true" />
+        
+        
+       <TableRow
+      android:id="@+id/tableRow3"
+      android:layout_width="match_parent"
+      android:layout_height="68dp"
+      android:layout_gravity="bottom"
+      android:layout_marginTop="393dp"
+      android:background="@drawable/drawerbuttonbackground" >
+
+
+    <ImageView
+		    android:id="@+id/settingsCancel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="bottom"
+		  	android:background="@drawable/back" />
+
+    <ImageView
+        android:id="@+id/settingsConfirm"
+        android:layout_width="69dp"
+        android:layout_height="68dp"
+        android:layout_marginLeft="228dp"
+        android:background="@drawable/confirm" />
+
+</TableRow>
+
+</LinearLayout>
